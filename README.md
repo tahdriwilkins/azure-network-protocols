@@ -51,11 +51,11 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/214a9476-1569-4f66-b09d-e01a924a58ca">
+<img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/08373a59-fec2-45b2-8bc7-c51b9f93fdf8">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Then we filter for ICMP in wireshark. After I then go to VM2 to get the Private IP address which is 10.0.0.5. Go back into VM1 and open powershell so I can ping VM2 and observe what happens</p>
 <br />
 
 
