@@ -61,9 +61,10 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 
 <p>
 <img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/688118fa-0edc-4633-8840-8ee3f3a03818">
+<img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/03ff55e0-1e74-408a-a60f-574f022baba0">
 </p>
 
-- I can also deny the ICMP traffic by going into VM2 Network Secruity Group and adding an inbound rule that deny ICMP traffic
+- I can also deny the ICMP traffic by going into VM2 Network Secruity Group and adding an inbound rule to deny ICMP traffic. Once I log back into VM1, the ping times out
 <br />
 
 
