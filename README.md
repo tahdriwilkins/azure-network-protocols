@@ -45,8 +45,8 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 <p>
 <img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/942a9e44-b78f-455e-ad9f-f881f25bb79e">
 </p>
-<p>
-- Upon opening up wireshark, I can observe all of the traffic coming in. The goal is to only observe ICMP traffic </p>
+
+- Upon opening up wireshark, I can observe all of the traffic coming in. The goal is to only observe ICMP traffic
 <br />
 
 
@@ -54,8 +54,8 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 <img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/214a9476-1569-4f66-b09d-e01a924a58ca">
 <img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/08373a59-fec2-45b2-8bc7-c51b9f93fdf8">
 </p>
-<p>
-Then we filter for ICMP in wireshark. After I then go to VM2 to get the Private IP address which is 10.0.0.5. Go back into VM1 and open powershell so I can ping VM2 and observe what happens</p>
+
+- Then we filter for ICMP in wireshark. After I then go to VM2 to get the Private IP address which is 10.0.0.5. Go back into VM1 and open powershell so I can ping VM2 and observe what happens
 <br />
 
 
