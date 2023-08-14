@@ -70,9 +70,11 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 
 <p>
 <img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/4e3217ce-96f0-49b5-b9b0-b7698d8ebd5b">
+<img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/e34b214e-528b-4572-b636-7997bc9d23d9">
 </p>
 
 - Back in Wireshark, filter for SSH traffic only. From the Windows 10 VM, “SSH into” Ubuntu Virtual Machine (via its private IP address)
+- I then type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark
 <br />
 
 
