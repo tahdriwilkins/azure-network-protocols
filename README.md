@@ -79,11 +79,11 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/43ef9740-c6df-4f1d-bf4a-d2248b4c322e">
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+- Back in Wireshark, filter for DHCP traffic only. Then from the Windows 10 VM, attempt to issue your VM a new IP address from the command line (ipconfig /renew)
+- Observe the DHCP traffic appearing in WireShark
 <br />
 
 
