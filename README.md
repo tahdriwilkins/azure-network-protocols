@@ -21,8 +21,8 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
+- Create our Resources
+- Observe ICMP Traffic
 - Step 3
 - Step 4
 
@@ -36,11 +36,10 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/798432de-9d75-4cd8-b746-907744967094">
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+- Then I download wireshark in the Windows Virtual Machine
 <br />
 
 <p>
