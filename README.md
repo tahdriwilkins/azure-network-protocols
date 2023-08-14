@@ -25,7 +25,7 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 - Observe ICMP Traffic
 - Observe SSH Traffic
 - Observe DNS Traffic
-- Observe 
+- Observe RDP Traffic
 
 <h2>Actions and Observations</h2>
 
