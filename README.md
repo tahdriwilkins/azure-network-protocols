@@ -23,7 +23,7 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 
 - Create our Resources
 - Observe ICMP Traffic
-- Step 3
+- Observe SSH Traffic
 - Step 4
 
 <h2>Actions and Observations</h2>
