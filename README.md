@@ -46,7 +46,7 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 <img width="1128" alt="image" src="https://github.com/tahdriwilkins/azure-network-protocols/assets/141438778/942a9e44-b78f-455e-ad9f-f881f25bb79e">
 </p>
 <p>
-- Upon opening up wireshark, I can observe the traffic </p>
+- Upon opening up wireshark, I can observe all of the traffic coming in. The goal is to only observe IMCP traffic </p>
 <br />
 
 
